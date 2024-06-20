@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Group_11124" data-name="Group 11124" transform="translate(-939 -1015)">
+    <g id="Rectangle_1872" data-name="Rectangle 1872" transform="translate(984 1015) rotate(90)" fill="none" stroke="#fff" stroke-width="1">
+      <rect width="45" height="45" rx="22.5" stroke="none"/>
+      <rect x="0.5" y="0.5" width="44" height="44" rx="22" fill="none"/>
+    </g>
+    <g id="Group_11123" data-name="Group 11123" transform="translate(967.5 1030.609) rotate(90)">
+      <path id="ARROW_WHITE_RIGHT" data-name="ARROW WHITE RIGHT" d="M7.781,0,6.75,1.031,11,5.263H0V6.736H11L6.75,10.982,7.781,12l6-6Z" transform="translate(0)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
